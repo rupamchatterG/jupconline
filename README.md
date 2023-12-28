@@ -14,6 +14,7 @@ Developer Institution : Jadavpur University (2021-2025 Batch)
 Developer Occupation  : Student, Pursuing B.E. in Power Engineering
 
 Developer LinkedIn    : https://www.linkedin.com/in/souvik-saha-jupe/
+
 Developer Github      : https://github.com/souvik-saha-jupe
 
 Developer Info Link   : 
