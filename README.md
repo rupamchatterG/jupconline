@@ -17,8 +17,6 @@ Developer LinkedIn    : https://www.linkedin.com/in/souvik-saha-jupe/
 
 Developer Github      : https://github.com/souvik-saha-jupe
 
-Developer Info Link   : 
-
 --------------------------------------------------------------------------------------------------------
 Project Information
 --------------------------------------------------------------------------------------------------------
