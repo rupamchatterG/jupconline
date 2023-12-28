@@ -1,4 +1,4 @@
-# jupconline
+# Jadavpur University Photographic Club
 Official Website of Jadavpur University Photographic Club
 
 Managed by @souvik-saha-jupe [ https://github.com/souvik-saha-jupe ]
