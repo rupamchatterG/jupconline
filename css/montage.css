@@ -1,0 +1,16 @@
+.montage{
+    margin-top: 10rem;
+    text-align: center;
+    align-items: center;
+}
+
+.montage img{
+    width: 30%;
+    margin-top: 2%;
+}
+
+@media(max-width:1024px) {
+    .montage img{
+        width: 80%;
+    }
+}
